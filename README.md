@@ -2,7 +2,6 @@
 
 ## Hi there 👋,
 ### I'm MOHAMMAD AMIR
-### Hi there 👋, I'm MOHAMMAD AMIR
 #### I  am an full stack WEB Developer and Expert Front-End Developer.
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
