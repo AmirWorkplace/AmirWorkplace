@@ -1,6 +1,5 @@
-![I  am an full stack WEB Developer and Expert Front-End Developer.]
- [([https://scontent.fcgp3-2.fna.fbcdn.net/v/t1.6435-9/104765299_274199993892700_6226778557454715400_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeEewfWvCQt4cIptqO1FT4GObU5X8bd8u_dtTlfxt3y799yMkk-_Lb4SIFokXGb4M_pWmeqxd4VWyS-Dbt_dWXOu&_nc_ohc=fKD5xmvUNGEAX_ItUlD&_nc_ht=scontent.fcgp3-2.fna&oh=00_AT9inWFSGHTmSJk4UYkx9ckiv3ZRnXYToVoJkNbe3nvsdA&oe=630323E2](https://avatars.githubusercontent.com/u/105806631?v=4))](https://www.facebook.com/photo/?fbid=274199990559367&set=a.116133406366027) 
-<img src="https://www.facebook.com/photo/?fbid=274199990559367&set=a.116133406366027"/>
+# ![I  am an full stack WEB Developer and Expert Front-End Developer.]
+<img src="https://www.facebook.com/photo/?fbid=274199990559367&set=a.116133406366027](https://avatars.githubusercontent.com/u/105806631?v=4"/>
 
 ## Hi there 👋,
 ### I'm MOHAMMAD AMIR
